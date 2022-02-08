@@ -19,7 +19,7 @@ This project has two services; the backend and frontend application.
    This should return a json string with the customer data i.e id, name and phone. 
    
    
-   STARTING THE FRONTEND SERVICE
+      STARTING THE FRONTEND SERVICE
    
    The frontend application is a web app that displays the customer data as given in the above endpoint. The app processes the data to extract the 
    country code, country and validates the numbers using a given regex. 
@@ -31,7 +31,8 @@ This project has two services; the backend and frontend application.
    
    http://localhost/frontend/app/
    
-   UNIT TESTING
+      UNIT TESTING.
+   
    Unit tests are critical in testing the smallest components of an application. This project has unit tests only for the frontend app. This is because new implementation    functions are only written here. The backend application relies heavily on Spring Boot Framework to fetch and display data. There is no implementation methods written in the application. 
    
    To run the unit tests on the frontend app. Navigate to the frontend directory and run this command
