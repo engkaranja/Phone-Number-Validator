@@ -12,7 +12,7 @@ This project has two services; the backend and frontend application.
    java -jar country-phone-number-0.0.1-SNAPSHOT.jar
    
    This will start the application on port 8000. You can change the port if it's in use. That's it. 
-   To confirm is the service is up and running, type the following url on your browser 
+   To confirm if the service is up and running, type the following url on your browser 
    
    http://localhost:8000/customer
    
