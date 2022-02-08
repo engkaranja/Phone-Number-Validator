@@ -1,7 +1,7 @@
 # Phone-Number-Validator
 This is a service for querying and validating international phone numbers. It fetches data from a static sqlite database and displays it on a web application. The web application has functionality to filter data based on the country code and validation status. 
 
-#Boot Up the Services
+#Boot Up the Services.
 This project has two services; the backend and frontend application. 
   
     STARTING THE BACKEND SERVICE
